@@ -1,6 +1,6 @@
 # Peleg's Hackpad
 
-![Fully Assembled Hackpad](FullAsembled.png)
+![Fully Assembled Hackpad](assets/FullAsembled.png)
 
 My HACKPAD version, it contains 5 button:
 SW1 - toggle deafen (discord) - 1
@@ -10,10 +10,10 @@ SW 4 - next song - 3
 SW 5 - Windows + l (sleep) - 0
 
 My Schematic:
-![Schematic Of PCB](schematic.png)
+![Schematic Of PCB](assets/schematic.png)
 
 The PCB:
-![PCB](PCB.png)
+![PCB](assets/PCB.png)
 
 List of materials:
 LED_SMD *2
